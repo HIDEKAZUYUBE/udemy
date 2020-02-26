@@ -1,4 +1,3 @@
-# udemy
-udemyで学習したものです
+# practice
 
 HTML,CSS,JavaScript,Vue.jsを使用
